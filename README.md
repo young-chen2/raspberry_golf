@@ -1,4 +1,4 @@
-## Raspberry golf
+## Raspberry Golf
 
 ## Boxin Zhang, Young Chen
 
